@@ -1,0 +1,84 @@
+div.aucentre{
+  text-align: center;
+}
+footer{
+  background: black;
+}
+.nav li{
+  display: inline-block !important;
+
+}
+span{
+  font-size: 10px;
+  margin-left:-80px;
+}
+a{
+  font-weight: bold;
+}
+div.build{
+  margin-left: 150px;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+button{
+  text-transform: uppercase;
+  color: black;
+  margin-left:550px;
+}
+
+div.colone,div.quisk{
+  margin-left: 70px;
+  margin-top: 15px;
+
+}
+div.col-md-12.avantcontenu{
+  background: black;
+}
+#success_message{ display: none;}
+.row.default{
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+.btnn{
+  float: left !important;
+  background: orange !important;
+  width: 120px !important;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 40px;
+  border-radius: 10px;
+
+}
+.bouton{
+  background: white;
+  color: black;
+  text-align: center;
+  width: 70px;
+  padding: auto;
+}
+.links{
+  font-weight: bold;
+  color: white;
+}
+.col-md-3{
+  width: 200px!important;
+}
+.col-sm-4{
+  margin-top: 25px;
+}
+/**{
+paddin:0 !important;
+}
+*/
+/*#gauche{
+  text-align: justify;
+}
+.h{
+  border-top: 0% !important;
+  margin-top: 0%;
+}
+.img{
+  float: left;
+}
+*/
